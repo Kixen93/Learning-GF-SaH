@@ -1,0 +1,11 @@
+label, input, button {
+  display: block;
+  text-transform: uppercase;
+}
+input, button {
+  border: 3px solid green;
+  margin: 5px;
+  font-size: 15px;
+  padding: 8px;
+  border-radius: 10px;
+}
